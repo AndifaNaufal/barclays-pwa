@@ -1,0 +1,22 @@
+{
+    "name": "Barclays Premier League",
+    "short_name": "PL apps",
+    "description": "informasi Liga Inggris",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "gcm_sender_id":"532864112919",
+    "icons": [
+        {
+            "src": "img/premier_league_logo-svg512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/premier_league_logo-svg192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
