@@ -1,6 +1,6 @@
 # Barclays Premier League PWA 
 
-####Ini adalah web project pertama kali belajar PWA dengan menggunakan framework materialize dan API football 
+#### Ini adalah web project pertama kali belajar PWA dengan menggunakan framework materialize dan API football 
 #### Fitur fitur yang ada pada web ini adalah :
 ###### Klasemen 
 ###### Tim Favorit 
